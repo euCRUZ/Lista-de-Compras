@@ -68,7 +68,7 @@ function App() {
       
       <p>Total: {total.toFixed(2)}</p>
     </div>
-  );
+  )
 }
 
 export default App;
